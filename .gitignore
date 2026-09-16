@@ -1,7 +1,5 @@
 # Node
 node_modules/
-.env
-.env.local
 .env*.local
 
 # TypeScript compiled output
@@ -12,3 +10,4 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+config.bat
